@@ -68,7 +68,7 @@ dt.predict([[5,6]])
 ![exp 7 ml 2](https://github.com/Rama-Lekshmi/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118541549/f42b2f9a-d161-4205-90ca-368733c1c156)
 ## Optimization of null values:
 ![exp 7 ml 3](https://github.com/Rama-Lekshmi/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118541549/d0eefc95-353f-4c35-b696-de3a978d8124)
-## Converting string literals to numericl values using label encoder:
+## Converting string literals to numerical values using label encoder:
 ![exp 7 ml 4](https://github.com/Rama-Lekshmi/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118541549/4d7e562c-9a2a-48ca-ae0e-5b5f1a429e91)
 ## Assigning x and y values:
 ![exp 7 ml 5](https://github.com/Rama-Lekshmi/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118541549/c56e3af8-065e-45de-93a5-ce9910f6638d)
